@@ -1,0 +1,111 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+h1{
+    font-size: 30px;
+    width: 25%;
+    color: black;
+    background-color: yellow;
+    padding: 10px;
+    border: 5px solid green;
+    margin: 50px auto;
+    text-align: center;
+    position: relative;
+}
+
+
+
+#hadding{
+    font-size: 25px;
+    width: 20%;
+    color: black;
+    background-color: yellow;
+    padding: 10px;
+    border: 5px solid green;
+    margin: 50px auto;
+    text-align: center;
+    position: relative;
+}
+.character-wrapper{
+    display: inline-block;
+    }
+
+
+h3{
+    font-size: 20px;
+    color:black;
+}
+
+.character-image h2 {
+    color: white;
+    background-color: brown;
+    width: 200px;
+    padding: 10px;
+    border: 1px solid black;
+    font-size: 20px;
+    margin: 8px auto 0px auto;
+    text-align: center;
+}
+
+.books {
+    width: 100%;
+    margin-top: 60px;
+}
+
+.book-name-description {
+    width: 60%;
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 50px;
+}
+
+.books h3 {
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.books p{
+    font-size: 20px;
+}
+
+.book-image {
+    width: 30%;
+    display: inline-block;
+        
+}
+
+.book-image img{
+    height: 300px;
+    margin: 20px;
+    margin-top: 40px;
+    
+}
+
+.bg-lightgrey {
+    background-color: lightgrey;
+}
+
+#gototop{
+margin: 50px;
+    text-align: center;
+    }
+
+#gototop a{
+    font-size: 30px;
+    color: white;
+    background-color: green;
+    display: inline-block;
+    padding: 5px 20px;
+    text-decoration: none;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#copyright {
+    background-color: black;
+    color: white;
+    padding: 5px;
+}

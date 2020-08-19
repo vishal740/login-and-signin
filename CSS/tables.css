@@ -1,0 +1,45 @@
+body {
+    background-color: #7272;
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+#styled, #styled th, #styled td {
+    padding: 10px 20px;
+}
+
+#styled{
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+    box-shadow: 
+}
+
+#styled thead th{
+    background-color: #197;
+    color: white;
+    text-align: left;
+}
+
+#styled tr:nth-child(odd) {
+    background-color: #caca;
+}
+
+#styled tr:nth-child(even) {
+    background-color: #e9e9e9;
+}
+
+#styled tfoot tr th  {
+    background-color: #51fc;
+    text-align: left;
+}
+
+caption {
+    font-size: 40px;
+    font-weight: 700;
+    color: black;
+    margin-bottom: 10px;
+}
+
+tr:hover {
+    opacity: .9;
+}
